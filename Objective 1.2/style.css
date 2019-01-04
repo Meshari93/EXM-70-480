@@ -5,3 +5,7 @@ body {
 .container {
     margin-bottom: 500px;
 }
+
+canvas {
+    border: 1px solid black;
+}
